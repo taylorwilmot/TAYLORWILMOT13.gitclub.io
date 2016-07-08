@@ -1,0 +1,22 @@
+body {
+	background: #ecb3ff ;
+font-family: 'satisfy', cursive;
+}
+
+
+h1{
+	color: #262626;
+	font-size: 38px;
+}
+img{
+	display: block;
+	height: 450px;
+	width:  auto;
+}
+
+#title{
+	background: 9494b8;
+	width:600px;
+}
+
+
